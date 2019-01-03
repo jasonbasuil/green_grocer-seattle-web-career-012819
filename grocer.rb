@@ -1,5 +1,8 @@
+require 'pry'
+
 def consolidate_cart(cart)
-  # code here
+  return_cart = {}
+  cart.each do |key,
 end
 
 def apply_coupons(cart, coupons)
